@@ -92,7 +92,7 @@ the neighbor it points to. This is all the memory ever needed by the library, an
 If needed, you can convert this representation into whatever suits your project.
 
 ## Using the library
-The library requires Zig 0.13 or Zig master (last tested on version `0.14.0-dev.2628+5b5c60f43`)
+The library requires Zig 0.14 
 
 Use `zig fetch --save <url>` to update your zon file. Alternatively, just copy `lib-amazig.zig` to your
 project, as it's self-contained.
