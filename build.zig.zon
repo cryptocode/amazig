@@ -1,5 +1,5 @@
 .{
-    .name = "amazig",
+    .name = .amazig,
     .version = "0.1.0",
     .paths = .{
         "build.zig",
@@ -9,4 +9,5 @@
         "LICENSE",
         "README.md",
     },
+    .fingerprint = 0xaedd97558dc3c1af,
 }
